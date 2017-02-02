@@ -11,7 +11,7 @@ Project for a restaurant menu app, where users can add, edit and remove restaura
 
 ## Quick start
 * Clone this repo `git clone https://github.com/juanv911/Restaurant` inside your vagrant folder.
-* Change to the `/restaurant-menu` directory.
+* Change to the `/Restaurant` directory.
 * In login.html and header.html your Facebook App ID.
 * In fb_client_secrets.json include your Facebook App ID and App Secret Key.
 
