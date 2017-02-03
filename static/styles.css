@@ -266,5 +266,11 @@ img {
     -o-background-size: cover;
     background-size: cover;
     display: inline-block;
-
+}
+.user_photo {
+    width: 300px; 
+    height: 300px;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
 }
